@@ -1,0 +1,26 @@
+
+
+.formcontainer{
+    padding-left : 50px;
+}
+
+
+.active{
+    color : black;
+    background : #622F17;
+}
+.invisible{
+	display : none;
+}
+
+.tableContainer{
+	padding : 50px;
+	margin-left : 5%;
+}
+
+
+
+.mediump{
+	font-weight: 600;
+	font-size: 20px;
+}
